@@ -48,9 +48,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h2>
-        <span>🎮</span> Games
-      </h2>
+      <h2>My Favourite Games</h2>
       <p>
         Checkout my Favourite Games.
         <br />
